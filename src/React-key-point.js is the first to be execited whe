@@ -1,2 +1,3 @@
 index.js is the first to be execited when server load
 props to pas data from one compo to another
+Hooks can be only called from the function
